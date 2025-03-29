@@ -50,8 +50,5 @@ Note the path to the bin directory (e.g., C:\poppler\bin)
 python textExtractor.py <your_pdf_file.pdf>
 ```
 
-📃 License
-This project is open-source and free to use. MIT License or add your own license here.
 
-✨ Contributions Welcome
-Feel free to submit pull requests or open issues if you want to improve the tool. Happy OCR'ing! 😄
+
