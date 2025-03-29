@@ -18,8 +18,8 @@ This is a Python script that extracts **text from scanned or image-based PDF fil
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/pdf-text-extractor.git
-cd pdf-text-extractor
+https://github.com/UrboyG/textExtractor.git
+cd textExtractor
 ```
 2. Create & Activate a Virtual Environment (Recommended)
 ```bash
